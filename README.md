@@ -9,4 +9,3 @@ My main interests are:
 - Experimental Mechanics
 - Software Development
 - Optimization
-- Robotics
